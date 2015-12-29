@@ -1,1 +1,3 @@
-# ts-6269
+```
+npm install && npm start
+```

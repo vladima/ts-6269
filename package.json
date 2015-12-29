@@ -1,0 +1,12 @@
+{
+    "name": "ts-6269",
+    "dependencies": {
+        "angular2": "2.0.0-beta.0"
+    },
+    "devDependencies": {
+        "typescript": "next"
+    },
+    "scripts": {
+        "start": "node_modules/.bin/tsc -p ."
+    }
+}
